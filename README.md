@@ -1,7 +1,5 @@
 # Obsidian Lean Canvas Template
 
-# Project Title
-
 [Obsidian canvas](https://obsidian.md/canvas) templates for [lean canvas](https://www.leanfoundry.com/tools/lean-canvas) business modelling, as created by [Ash Maurya](https://www.leanfoundry.com/about).
 
 ![Image showing part of the empty canvas](lean-canvas.png)
@@ -20,7 +18,7 @@ These templates simply require an installation of Obsidian from the past couple 
 ### Installing
 
 * Download [Lean Canvas](https://github.com/benhowes/obsidian-lean-canvas/blob/main/Lean%20Canvas.canvas) and/or [Leaner Canvas](https://github.com/benhowes/obsidian-lean-canvas/blob/main/Leaner%20Canvas.canvas) directly and save them somewhere within the vault you want to use them from. 
-* It's suggested to have a templates folder and put the main copies in there
+* It's suggested to have a templates folder and put the main copies in there and copy from as you need.
 
 ### Using
 
