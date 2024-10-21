@@ -19,7 +19,7 @@ These templates simply require an installation of Obsidian from the past couple 
 
 ### Installing
 
-* Download [Lean Canvas]() and/or [Leaner Canvas]() directly and save them somewhere within the vault you want to use them from. 
+* Download [Lean Canvas](https://github.com/benhowes/obsidian-lean-canvas/blob/main/Lean%20Canvas.canvas) and/or [Leaner Canvas](https://github.com/benhowes/obsidian-lean-canvas/blob/main/Leaner%20Canvas.canvas) directly and save them somewhere within the vault you want to use them from. 
 * It's suggested to have a templates folder and put the main copies in there
 
 ### Using
