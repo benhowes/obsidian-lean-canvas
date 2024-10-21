@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","id":"8eb4bb400be37537","text":"# 💎 UNIQUE VALUE PROPOSITION\n\n> [!info]-\n> Single, clear, compelling proposition that turns an unaware visitor into an interested prospect\n\n\n## HIGH-LEVEL CONCEPT\n\n> [!info]- \n> The high-level concept is the core idea behind your UVP, and it should communicate the essence of your product or service in a way that is easy to understand and memorable.\n\n","x":-460,"y":-760,"width":420,"height":900,"color":"2"},
+		{"type":"text","id":"5ed42bb676c639fb","text":"# ✨ UNFAIR ADVANTAGE\n\n> [!info]-\n> What unique advantages do you have that will help you succeed over competitors?\n> Something that can't be easily replicated or bought\n","x":-20,"y":-760,"width":420,"height":420,"color":"6"},
+		{"type":"text","id":"067cbbd1ffc42c35","text":"# 💡 SOLUTION\n\n> [!info]-\n> Outline possible solution for each problem\n\n","x":-900,"y":-760,"width":420,"height":420,"color":"5"},
+		{"type":"text","id":"db1dd0eb56ba14be","text":"# 🎯 CHANNELS\n\n\n> [!info]-\n> List your path to customers\n","x":-20,"y":-320,"width":420,"height":460,"color":"3"},
+		{"type":"text","id":"bc66fea57737eb36","text":"# 🗝️ KEY METRICS\n\n\n> [!info]-\n> List key numbers telling how your business is doing\n","x":-900,"y":-320,"width":420,"height":460,"color":"4"},
+		{"type":"text","id":"2800b3593cbbb742","text":"# ❗️PROBLEM\n\n> [!info]-\n> What problem does your product or service solve for your customers?\n> i.e. List your customers top 3 problems\n\n\n\n## EXISTING ALTERNATIVES\n\n> [!info]-\n> How these problems are solved today","x":-1340,"y":-760,"width":420,"height":900,"color":"1"},
+		{"type":"text","id":"5992f186bbc8e3b4","text":"# 💸 REVENUE STREAMS\n\n\n> [!info]-\n> - **Pricing Model** \n> - List your source(s) of revenue","x":-240,"y":160,"width":1080,"height":440,"color":"4"},
+		{"type":"text","id":"035e53384fc937f3","text":"# 💰 COST STRUCTURE\n\n> [!info]- \n> List your fixed and variable costs\n","x":-1340,"y":160,"width":1080,"height":440,"color":"#ff00d0"},
+		{"type":"text","id":"77815eaf3fe76915","text":"# 🤗 CUSTOMER SEGMENTS\n\n> [!info]-\n> List your target customers and users\n\n## EARLY ADOPTERS\n\n> [!info]-\n> List your ideal customer's characteristics","x":420,"y":-760,"width":420,"height":900,"color":"#014dfe"},
+		{"id":"fe255eb3beb07afa","type":"text","text":"# Lean Canvas\n\n[Fill order tips](https://www.leanfoundry.com/articles/what-is-the-right-fill-order-for-a-lean-canvas) - Suggested order shown in brackets in each section's title","x":-1340,"y":-900,"width":620,"height":120},
+		{"id":"ffdbf084b8cb1c2b","type":"text","text":"[Lean Canvas is created by Ash Maurya](https://www.leanstack.com/leancanvas) and adapted from the [Business Model Canvas](https://www.strategyzer.com). \nThis work is licensed under the [Creative Commons Attribution-Share Alike 3.0 Un-ported License](www.creativecommons.org/licenses/by-sa/3.0).\nAdapted for Obsidian by [Ben Howes](https://ben-howes.co.uk).","x":-1340,"y":620,"width":1080,"height":120}
+	],
+	"edges":[]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","id":"8cf6f448b3559447","text":"# 🤗 CUSTOMER SEGMENTS (1)\n\n> [!info]-\n> List your target customers and users\n> - **Keep this simple**\n> - Use simple labels like \"entrepreneur\"\n\n\n## EARLY ADOPTERS (2)\n\n> [!info]-\n> List your ideal customer's characteristics\n> - How will you qualify/identify early adopters?\n> - List one or more **switching triggers**","x":-220,"y":-440,"width":420,"height":900,"color":"#014dfe"},
+		{"type":"text","id":"477bb361a225bf80","text":"# ❗️PROBLEM (4)\n\n> [!info]-\n> What problem does your product or service solve for your customers?\n> i.e. List your customers top 3 problems\n> - List problems worth solving with existing alternatives\n> - New problems come from old solutions\n\n\n\n## EXISTING ALTERNATIVES (3)\n\n> [!info]-\n> How these problems are solved today\n> - **transcend category** (think spreadsheets, email etc)","x":-660,"y":-440,"width":420,"height":900,"color":"1"},
+		{"id":"e75fee0d6e76741d","type":"text","text":"[Lean Canvas is created by Ash Maurya](https://www.leanfoundry.com/articles/reorder-your-chain-of-beliefs-with-a-leaner-lean-canvas). Adapted for Obsidian by [Ben Howes](https://ben-howes.co.uk).","x":-660,"y":480,"width":860,"height":80}
+	],
+	"edges":[]
+}
